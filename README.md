@@ -1,4 +1,4 @@
-# Testing out SST
+# Combining Typescript and Python in SST
 
 SST seems like a better way to utilize AWS for IaC. This is done for a tutorial and will be implimented in a near future project.
 
